@@ -1,0 +1,32 @@
+{
+  "records": {
+    "4": {
+      "id": "4",
+      "titulo": "Cronograma 4",
+      "instagram": "@grupogatti",
+      "etapa": "Enviar crono",
+      "status": "Possíveis alterações"
+    },
+    "3": {
+      "id": "3",
+      "titulo": "Cronograma 3",
+      "instagram": "@grupogatti",
+      "etapa": "Montar crono",
+      "status": "Enviar cronos até 12h"
+    },
+    "2": {
+      "id": "2",
+      "titulo": "Cronograma 2",
+      "instagram": "@grupogatti",
+      "etapa": "Criar conteúdo",
+      "status": "Entregar até 12h"
+    },
+    "1": {
+      "id": "1",
+      "titulo": "Cronograma 1",
+      "instagram": "@grupogatti",
+      "etapa": "Agendar post",
+      "status": "Alteração"
+    }
+  }
+}
